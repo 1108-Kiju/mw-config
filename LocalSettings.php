@@ -5810,7 +5810,7 @@ $wgConf->settings += [
 			'editbureaucratprotected',
 			'editconsulprotected',
 		],
-		'+tikipediawiki' => [
+		'+tikiwiki' => [
 			'editextendedconfirmedprotected',
 		],
 		'+trwdeploymentwiki' => [
@@ -5950,7 +5950,7 @@ $wgConf->settings += [
 			'editbureaucratprotected',
 			'editconsulprotected',
 		],
-		'tikipediawiki' => [
+		'tikiwiki' => [
 			'editextendedconfirmedprotected',
 		],
 		'ultimatelevelbuilderwiki' => [
